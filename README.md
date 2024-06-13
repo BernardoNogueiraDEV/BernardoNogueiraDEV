@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BernardoNogueiraDEV
-- 👀 I’m interested in Java and python
+- 👀 I’m interested in Java, python and English
 - 🌱 I’m currently learning Java, python and English
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on job vacancies to improve my skills
+- 📫 How to reach me: bernardo.nogueiraff@gmail.com
 - 😄 Pronouns: he/she
 - ⚡ Fun fact: I like to learn more and more
 
