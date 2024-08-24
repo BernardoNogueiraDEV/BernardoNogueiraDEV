@@ -1,5 +1,5 @@
 
-## 👋 Olá, eu sou o Bernardo!
+## 👋 Olá, eu sou Bernardo!
    #### Focado em Python.
    #### Com habilidade em desenvolver soluções otimizadas e organizadas.
 
