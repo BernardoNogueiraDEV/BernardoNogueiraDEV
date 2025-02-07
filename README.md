@@ -1,6 +1,6 @@
 
 ## 👋 Olá, eu sou Bernardo!
-   #### Focado em Python.
+   #### Focado em Desenvolvimento Web.
    #### Com habilidade em desenvolver soluções otimizadas e organizadas.
 
 # 🛠️ Tecnologias & Ferramentas
