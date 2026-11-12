@@ -48,7 +48,6 @@ Atualmente desenvolvo sistemas SaaS, plataformas web e APIs utilizando tecnologi
 - Desenvolvendo aplicações Full Stack com **Next.js + NestJS**
 - Banco de dados **PostgreSQL + Prisma ORM**
 - Estudando **Arquitetura de Software**, **Clean Architecture** e **Design Patterns**
-- Deploy com **Docker**, **Vercel** e **Railway**
 
 ---
 
@@ -59,6 +58,9 @@ Sistema SaaS para restaurantes com Cardápio Digital, QR Code, pedidos online, p
 
 ### LawRisk
 Plataforma para análise automatizada de riscos jurídicos e geração de relatórios.
+
+### Zinglog
+Plataforma em desenvolvimento tipo um Uber para cargas de caminhões para obras
 
 ---
 
